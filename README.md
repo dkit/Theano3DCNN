@@ -10,4 +10,7 @@
 6. Run prepare_settings.py
 
 Now you should be able to run the main file:
+
 python main.py results.txt
+
+Some interesting datasets can be found at: https://www.cs.utexas.edu/~chaoyeh/web_action_data/dataset_list.html
